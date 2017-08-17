@@ -57,8 +57,8 @@ class MySQLClass(object):
 
 #obj = MySQLClass('localhost','root','','basic_agent',3306)
 #sql = "select * from t_basic_agent_status limit 2"
-#sql = "insert into t_basic_agent_status(assetid,ip) values('%s','%s')" % ('TYSV04122411','172.16.0.200')
-#sql = "update t_basic_agent_status set tsc_agent='%s' where assetid='%s'" % ('dead','TYSV04122411')
+#sql = "insert into t_basic_agent_status(assetid,ip) values('%s','%s')" % ('gaafwsedfaw','172.16.0.1')
+#sql = "update t_basic_agent_status set tsc_agent='%s' where assetid='%s'" % ('dead','fcawesafw')
 #req = obj.insert(sql)
 #req = obj.update('tsc_agent',sql)
 
